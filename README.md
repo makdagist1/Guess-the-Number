@@ -1,1 +1,1 @@
-# Say-y-Tahmin-Et
+# Sayıyı-Tahmin-Et
